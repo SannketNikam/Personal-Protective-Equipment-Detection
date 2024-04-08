@@ -1,0 +1,7 @@
+numpy
+cv2
+torch
+ultralytics
+configparser
+streamlit
+streamlit_extras
